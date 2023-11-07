@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/oliveeira2610/labirinto#readme",
   "dependencies": {
+    "cli-color": "^2.0.3",
+    "prompt-sync": "^4.2.0",
     "ts-node": "^10.9.1"
   }
 }
